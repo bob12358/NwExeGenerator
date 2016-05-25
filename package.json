@@ -1,0 +1,11 @@
+{
+  "name": "Codemao Client",
+  "version": "0.1",
+  "main": "https://www.codemao.cn/school",
+  "node-main": "main.js",
+  "window": {
+  	"min_width": 1100,
+  	"min_height": 768,
+  	"resizable": true
+  }
+}

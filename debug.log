@@ -1,0 +1,10 @@
+[0519/095158:WARNING:pe_image_reader.cc(144)] CodeView debug entry of unexpected size in C:\WINDOWS\system32\OLEACC.dll
+[0520/025743:WARNING:pe_image_reader.cc(144)] CodeView debug entry of unexpected size in C:\WINDOWS\system32\OLEACC.dll
+[0520/040818:WARNING:pe_image_reader.cc(144)] CodeView debug entry of unexpected size in C:\WINDOWS\system32\OLEACC.dll
+[0520/040818:WARNING:pe_image_reader.cc(161)] encountered non-7.0 CodeView debug record in C:\WINDOWS\system32\msacm32.drv
+[0520/041807:WARNING:pe_image_reader.cc(144)] CodeView debug entry of unexpected size in C:\WINDOWS\system32\OLEACC.dll
+[0520/041807:WARNING:pe_image_reader.cc(161)] encountered non-7.0 CodeView debug record in C:\WINDOWS\system32\msacm32.drv
+[0520/124314:WARNING:pe_image_reader.cc(144)] CodeView debug entry of unexpected size in C:\WINDOWS\system32\OLEACC.dll
+[0520/124314:WARNING:pe_image_reader.cc(161)] encountered non-7.0 CodeView debug record in C:\WINDOWS\system32\msacm32.drv
+[0520/125008:WARNING:pe_image_reader.cc(144)] CodeView debug entry of unexpected size in C:\WINDOWS\system32\OLEACC.dll
+[0520/125008:WARNING:pe_image_reader.cc(161)] encountered non-7.0 CodeView debug record in C:\WINDOWS\system32\msacm32.drv
